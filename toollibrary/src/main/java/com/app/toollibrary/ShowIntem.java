@@ -8,5 +8,4 @@ public class ShowIntem {
     public static String Showces(String s) {
         return s + "===东方不败";
     }
-
 }
